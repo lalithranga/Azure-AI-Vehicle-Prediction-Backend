@@ -1,7 +1,3 @@
-Here's a short README for your project:  
-
----
-
 # Image Prediction API  
 
 This is a simple Express.js server that allows users to upload an image and send it to a prediction API for analysis. The server uses **Multer** for file uploads and **Axios** to communicate with the external prediction service.  
@@ -33,6 +29,3 @@ This is a simple Express.js server that allows users to upload an image and send
 ## License  
 This project is open-source. Feel free to modify and use it as needed.  
 
----
-
-Let me know if you need any changes! 🚀
