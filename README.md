@@ -26,6 +26,4 @@ This is a simple Express.js server that allows users to upload an image and send
    node server.js
    ```
 
-## License  
-This project is open-source. Feel free to modify and use it as needed.  
 
